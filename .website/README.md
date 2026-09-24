@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - puzzle
+  - strategy
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
